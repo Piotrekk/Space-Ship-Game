@@ -274,3 +274,4 @@ function GameEngine() {
 (new GameEngine()).init();
 
 //test1
+//test2
